@@ -23,3 +23,19 @@ This is the list of c programs that have functions that operate on binary tree n
 **9-binary_tree_height.c:** calculates height of binary tree at given root
 
 **10-binary_tree_depth.c:** fetches the depth of a binary tree node
+
+**11-binary_tree_size.c:** calculates the size of the tree(no of nodes)
+
+**12-binary_tree_leaves.c:** calculates the no of leaves
+
+**13-binary_tree_nodes.c:** calculates no of internal nodes
+
+**14-binary_tree_balance.c:** calculates the balance factor of the node
+
+**15-binary_tree_is_full.c:** tests if the binary tree is full binary tree
+
+**16-binary_tree_is_perfect.c:** tests if the binary tree is perfect binary tree
+
+**17-binary_tree_sibling.c:** retrieves the sibling of node in binary tree if it exists
+
+**18-binary_tree_uncle.c:** retrieves the uncle of node in binary tree if it exists
